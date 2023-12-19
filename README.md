@@ -1,6 +1,6 @@
 # SMSwhy
 
-![](SMS_Replacement.png]
+![](SMS_Replacement.png)
 
 This is an alternate Sega Master System motherboard in a 10cmX10cm format.
 
